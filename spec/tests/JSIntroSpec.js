@@ -16,7 +16,7 @@ describe("JSIntro Test Suite", function(){
 			expect(i).toEqual(2);
 		});
 
-	});
+	});//awesome
 
 	describe("JSIntro-SumOfArray", function(){
 
